@@ -1,5 +1,4 @@
 # HomeBussiness
------------------------------------------------------------------------------------------------------
 Tytuł aplikacji: Home application 
 
 Opis: Aplikacja ta została stworzona na moje potrzeby rozliczeń zwykłych wydatków domowych.
